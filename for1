@@ -1,0 +1,16 @@
+/// ejercicio 1
+
+public class Main {
+    public static void main(String[] args) {
+        var numeroIf = 3;
+        if (numeroIf > 0) {
+            System.out.println("Es Positivo");
+        } else if (numeroIf < 0) {
+            System.out.println("Es Negativo");
+        } else {
+            System.out.println("Es cero");
+        }
+    }
+}
+
+/// ejercicio 2 
